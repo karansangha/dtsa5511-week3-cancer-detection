@@ -1,3 +1,7 @@
 .ipynb_checkpoints/**
 histopathologic-cancer-detection/**
+best_model/*
+.DS_Store
+*.png
+*.csv
 
